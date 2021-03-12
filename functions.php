@@ -75,32 +75,32 @@ function astra_child_simplon_add_body_class( $classes ) {
 
 add_theme_support( 'editor-color-palette', array(
 		array(
-			'name'  => __( 'White', 'textdomain' ),
+			'name'  => __( 'white', 'astra-child-simplon' ),
 			'slug'  => 'white',
 			'color'	=> '#FFFFFF',
 		),
 	  array(
-			'name'	=> __( 'Black', 'textdomain' ),
+			'name'	=> __( 'black', 'astra-child-simplon' ),
 			'slug'  => 'black',
 			'color'	=> '#000000',
 		),
 		array(
-			'name'  => __( 'Carbon', 'textdomain' ),
+			'name'  => __( 'carbon', 'astra-child-simplon' ),
 			'slug'  => 'carbon',
 			'color'	=> '#4A4A4A',
 		),
 		array(
-			'name'  => __( 'Caramel,', 'textdomain' ),
+			'name'  => __( 'caramel,', 'astra-child-simplon' ),
 			'slug'  => 'caramel,',
 			'color'	=> '#8B572A',
 		),
 		array(
-			'name'  => __( 'Vanilla,', 'textdomain' ),
+			'name'  => __( 'vanilla,', 'astra-child-simplon' ),
 			'slug'  => 'vanilla,',
 			'color'	=> '#EBE5D9',
 		),
 		array(
-			'name'  => __( 'cappuccino,', 'textdomain' ),
+			'name'  => __( 'cappuccino,', 'astra-child-simplon' ),
 			'slug'  => 'cappuccino,',
 			'color'	=> '#B09F82',
 		)

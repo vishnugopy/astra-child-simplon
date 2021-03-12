@@ -42,9 +42,8 @@ Template: astra
     background-color:#FFFFFF;
 }
 
-
 .has-black-color {
-  color:#FFFFFF;
+  color:#000000;
 }
 .has-black-background-color {
     background-color:#000000;
